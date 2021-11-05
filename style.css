@@ -10,7 +10,7 @@ h1 {
 }
 
 .container {
-  background-image: url("/static/dark_comp_copy2.jpg");
+  background-image: url("./static/dark_comp_copy2.jpg");
   height: 100vh;
   background-size: cover;
   background-position: bottom;
